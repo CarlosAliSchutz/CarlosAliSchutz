@@ -23,7 +23,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-
       - name: update action.yml to use image from local Dockerfile
         run: |
           sed -i "s/image: .*/image: Dockerfile/" action.yml
