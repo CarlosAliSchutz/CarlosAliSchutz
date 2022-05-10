@@ -21,9 +21,4 @@
   <a href = "mailto:schutzalicarlos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-ali-s-89b47011b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![github contribution grid snake animation](https://raw.githubusercontent.com/CarlosAliSchutz/CarlosAliSchutz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/CarlosAliSchutz/CarlosAliSchutz/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
-_generated with [Platane/snk](https://github.com/CarlosAliSchutz/snk)_
- 
 </div>
