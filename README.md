@@ -1,5 +1,8 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
+- 📕 Estudante de Engenharia da Computação
+- 💻 Estudando HTML, CSS e Javascript
+
 <div>
   <a href="https://github.com/CarlosAliSchutz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAliSchutz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -21,4 +24,6 @@
   <a href = "mailto:schutzalicarlos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-ali-s-89b47011b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  ![Snake animation](https://github.com/CarlosAliSchutz/CarlosAliSchutz/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
