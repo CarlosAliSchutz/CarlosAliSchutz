@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
 - 📕 Estudante de Engenharia da Computação
-- 💻 Estudando HTML, CSS e Javascript
+- 💻 Foco em Front-end
 
 <div>
   <a href="https://github.com/CarlosAliSchutz">
