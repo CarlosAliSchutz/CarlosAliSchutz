@@ -9,9 +9,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAliSchutz&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-
+#### My Skills
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=spring,postgres,java,git)](https://skillicons.dev)
 
 </div>
  
