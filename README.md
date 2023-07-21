@@ -1,7 +1,6 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
-- 📕 Estudante de Engenharia da Computação
-- 💻 Foco em Front-end
+- 📕 Estudante de Engenharia de Software
 
 <div>
   <a href="https://github.com/CarlosAliSchutz">
