@@ -9,7 +9,7 @@
 </div>
 <div style="display: inline_block"><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,dotnet,spring,postgres,java,git,docker&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,dotnet,spring,postgres,java,git,docker,jest&perline=5)](https://skillicons.dev)
 
 </div>
  
