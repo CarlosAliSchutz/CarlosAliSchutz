@@ -22,8 +22,7 @@
   [![My Skills](https://skillicons.dev/icons?i=aws,flutter,kotlin,nestjs,nextjs,tailwind,&perline=3)](https://skillicons.dev)
 
 </div>
- 
- <br>
+
  
   ### Redes Sociais abaixo!
  
