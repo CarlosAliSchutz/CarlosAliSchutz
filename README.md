@@ -8,8 +8,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAliSchutz&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
+
+  ### Tecnologias
+  [![My Skills](https://skillicons.dev/icons?i=ts,react,js,node,html,css,dotnet,spring,java,git,jest,sass&perline=6)](https://skillicons.dev)
+
+  ### Banco de dados
+  [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql&perline=4)](https://skillicons.dev)
+
+  ### Sistemas e Ferramentas
+  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,idea,docker&perline=7)](https://skillicons.dev)
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,dotnet,spring,postgres,java,git,docker,jest,sass&perline=4)](https://skillicons.dev)
 
 </div>
  
