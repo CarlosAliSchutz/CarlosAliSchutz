@@ -5,8 +5,11 @@ Meu nome é Carlos e sou apaixonado por desenvolvimento de software. Atualmente,
 
 <div style="display: inline_block">
 
-  ### Meu Portfólio
-  [Portfólio](https://carlosalischutz.github.io/Portfolio/): Este site foi desenvolvido para destacar alguns dos meus projetos pessoais.
+### Meu Portfólio
+
+Confira meu portfólio online para explorar alguns dos meus projetos pessoais e experiências de desenvolvimento. 👇
+
+Visite meu [Portfólio](https://carlosalischutz.github.io/Portfolio/) para saber mais sobre meu trabalho e habilidades.
 
   ### Tecnologias
   [![My Skills](https://skillicons.dev/icons?i=ts,react,js,nodejs,html,css,dotnet,spring,java,git,jest,sass&perline=6)](https://skillicons.dev)
