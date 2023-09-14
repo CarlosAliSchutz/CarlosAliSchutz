@@ -10,13 +10,13 @@
 <div style="display: inline_block"><br>
 
   ### Tecnologias
-  [![My Skills](https://skillicons.dev/icons?i=ts,react,js,nodejs,html,css,dotnet,spring,java,git,jest,sass&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,react,js,nodejs,html,css,dotnet,spring,java,git,jest,sass&perline=4)](https://skillicons.dev)
 
   ### Banco de dados
   [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql&perline=4)](https://skillicons.dev)
 
   ### Sistemas e Ferramentas
-  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,idea,docker&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,idea,docker&perline=4)](https://skillicons.dev)
   
 
 </div>
