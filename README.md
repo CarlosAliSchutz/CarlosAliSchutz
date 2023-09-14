@@ -1,13 +1,8 @@
-## Bem-vindo(a) ao meu perfil 😁
+# Olá, eu sou Carlos - Desenvolvedor de Software e Estudante de Engenharia de Software 😁
 
-- 📕 Estudante de Engenharia de Software
+## Sobre Mim
+Meu nome é Carlos e sou apaixonado por desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades com TypeScript e Node.js, mas também pretendo estudar Java em breve. Estou sempre em busca de desafios emocionantes e oportunidades de aprendizado.
 
-<div>
-  <a href="https://github.com/CarlosAliSchutz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAliSchutz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAliSchutz&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
 
   ### Tecnologias
   [![My Skills](https://skillicons.dev/icons?i=ts,react,js,nodejs,html,css,dotnet,spring,java,git,jest,sass&perline=6)](https://skillicons.dev)
@@ -23,7 +18,16 @@
 
 </div>
 
- 
+  ### Meu Portfólio
+  - [Portfólio](https://carlosalischutz.github.io/Portfolio/)
+
+<div>
+  <a href="https://github.com/CarlosAliSchutz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAliSchutz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAliSchutz&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  
   ### Redes Sociais abaixo!
  
 <div> 
